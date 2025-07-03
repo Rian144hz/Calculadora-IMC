@@ -2,7 +2,7 @@
 
 Aplicativo Android desenvolvido em Kotlin para calcular o **Índice de Massa Corporal (IMC)** com base no peso e altura informados pelo usuário.
 
-![Print do App](image.png)
+![Print do App](image.png.png)
 
 ---
 
